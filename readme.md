@@ -92,6 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [laravel-swoole-jsonrpc](https://github.com/huang-yi/laravel-swoole-jsonrpc) - The JSON-RPC server and client based on Swoole, for Laravel and Lumen framework.
 - [lumen-swoole-http](https://github.com/breeze2/lumen-swoole-http) - A bridge from Swoole to Lumen.
 - [laravel-s](https://github.com/hhxsv5/laravel-s) - Speed up Laravel/Lumen by Swoole, 'S' means Swoole, Speed, High performance.
+- [Slim-Swoole](https://github.com/pachico/slim-swoole) - Convenient library to run SlimPHP applications with Swoole.
 - [zys](https://github.com/qieangel2013/zys) - A high performance service framework based on Yaf or Swoole.
 - [yii2-swoole](https://github.com/liufee/yii2-swoole) - An integration with yii2 and Swoole.
 - [phwoolcon](https://github.com/phwoolcon/phwoolcon)- An integration with Phalcon and Swoole.
