@@ -97,6 +97,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [zys](https://github.com/qieangel2013/zys) - A high performance service framework based on Yaf or Swoole.
 - [yii2-swoole](https://github.com/liufee/yii2-swoole) - An integration with yii2 and Swoole.
 - [phwoolcon](https://github.com/phwoolcon/phwoolcon)- An integration with Phalcon and Swoole.
+- [zend-expressive-swoole](https://github.com/zendframework/zend-expressive-swoole) - Swoole support for Expressive applications
 
 ## Others
 - [jegarn](https://github.com/yaoguais/jegarn) - A chat system, based on Swoole, redis and msgpack.
