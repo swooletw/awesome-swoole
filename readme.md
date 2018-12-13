@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Framework](#framework)
 - [Database](#database)
 - [Integration](#integration)
+- [Docker](#docker)
 - [Others](#others)
 - [License](#license)
 
@@ -96,8 +97,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Slim-Swoole](https://github.com/pachico/slim-swoole) - Convenient library to run SlimPHP applications with Swoole.
 - [zys](https://github.com/qieangel2013/zys) - A high performance service framework based on Yaf or Swoole.
 - [yii2-swoole](https://github.com/liufee/yii2-swoole) - An integration with yii2 and Swoole.
-- [phwoolcon](https://github.com/phwoolcon/phwoolcon)- An integration with Phalcon and Swoole.
-- [zend-expressive-swoole](https://github.com/zendframework/zend-expressive-swoole) - Swoole support for Expressive applications
+- [phwoolcon](https://github.com/phwoolcon/phwoolcon) - An integration with Phalcon and Swoole.
+- [zend-expressive-swoole](https://github.com/zendframework/zend-expressive-swoole) - Swoole support for Expressive applications.
+
+## Docker
+- [docker-swoole-webapp](https://github.com/roquie/docker-swoole-webapp) - Simple Docker-image to build your applications based on Swoole PHP extension.
 
 ## Others
 - [jegarn](https://github.com/yaoguais/jegarn) - A chat system, based on Swoole, redis and msgpack.
