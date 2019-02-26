@@ -81,6 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mixphp](https://github.com/mixstart/mixphp) - A light weight yet hight performance web framework.
 - [GroupCo](https://github.com/fucongcong/GroupCo) - A web framework for API, Http server, RPC server, micro service and high concurrency use cases.
 - [Igni](https://github.com/igniphp/framework) - Psr-compatible micro-framework for rest services.
+- [Siler](https://github.com/leocavalcante/siler) - Flat files and plain-old PHP functions rocking on a production-grade, high-performance, scalable, concurrent and non-blocking HTTP server.
 
 ## Database
 - [Sworm](https://github.com/heikezy/Sworm) - A PHP NotORM-like database library based on Swoole for simple working with data in the database.
