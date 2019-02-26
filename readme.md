@@ -63,6 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [php-amqplib](https://github.com/swoole/php-amqplib) - A PHP coroutine client for RabbitMQ base on Swoole extension.
 - [zmq](https://github.com/albinekb/open-pip-cli) - ZeroMQ bindings for Swoole.
 - [swoole-http-client](https://github.com/Moln/swoole-http-client) - An async http client in compatible with psr7 request and response.
+- [Guzzle-Swoole](https://github.com/Yurunsoft/Guzzle-Swoole) - A coroutine handler for Guzzle.
 
 ## Algorithm
 
@@ -88,6 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [swoole2-mysqlpool](https://github.com/yangxikun/swoole2-mysqlpool) - A MySQL connection pool.
 - [laravel-swoole-cp](https://github.com/breeze2/laravel-swoole-cp) - A swoole connection pool for Laravel.
 - [mysql-proxy](https://github.com/swoole/mysql-proxy) - A MySQL proxy with connection pool and read/write splitting support.
+- [SMProxy](https://github.com/louislivi/SMProxy) - A MySQL database connection pool based on MySQL protocol and Swoole. 
 
 ## Integration
 - [laravel-swoole](https://github.com/swooletw/laravel-swoole) - ❤️ A high performance HTTP sever based on Swoole. Speed up your Laravel or Lumen applications. This repo is maintained by Swoole Taiwan Community.
