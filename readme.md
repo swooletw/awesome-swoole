@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Swoole IDE Helper](https://github.com/eaglewu/swoole-ide-helper) - Auto completion, trigger suggest and view docs for Swoole in editor.
 - [MyQEE](https://github.com/myqee/server) - A wrapper library for Swoole.
 - [Auto Reload](https://github.com/swoole/auto_reload) - Official hot reload tool using inotify.
+- [swoole-tests](https://github.com/MarcFaussurier/swoole-tests) - A minimalist test framework compatible with swoole
 
 ## Process
 - [Donkey](https://github.com/osgochina/Donkey) - An async crontab application by Swoole.
