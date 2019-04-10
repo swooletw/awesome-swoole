@@ -105,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Docker
 - [docker-swoole-webapp](https://github.com/roquie/docker-swoole-webapp) - Simple Docker-image to build your applications based on Swoole PHP extension.
+- [Dwoole](https://github.com/leocavalcante/dwoole) - ⚙️ Docker image for Swoole apps with Composer, auto-restart on development and a production-ready version.
 
 ## Others
 - [jegarn](https://github.com/yaoguais/jegarn) - A chat system, based on Swoole, redis and msgpack.
