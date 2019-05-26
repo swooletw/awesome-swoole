@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Database](#database)
 - [Integration](#integration)
 - [Docker](#docker)
+- [Unikernels](#unikernels)
 - [Others](#others)
 - [License](#license)
 
@@ -105,6 +106,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Docker
 - [docker-swoole-webapp](https://github.com/roquie/docker-swoole-webapp) - Simple Docker-image to build your applications based on Swoole PHP extension.
+
+## Unikernels
+- [unikernel-swoole-webapp](https://github.com/nanovms/ops-examples/tree/master/php/03-http-swoole) - Simple example to build your Swoole app as a unikernel.
 
 ## Others
 - [jegarn](https://github.com/yaoguais/jegarn) - A chat system, based on Swoole, redis and msgpack.
