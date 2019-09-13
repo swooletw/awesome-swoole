@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ---
 
 ## Documentation
-- [Swoole Docs](https://www.swoole.co.uk/docs) - Official Swoole documentaion in English.
+- [Swoole Docs](https://www.swoole.co.uk/docs) - Official Swoole documentation in English.
 - [Swoole Examples](https://github.com/swoole/swoole-src/tree/master/examples) - Official examples in Github.
 - [Another Swoole Examples](https://github.com/chenchaojie/Swoole) - Another personal Swoole examples for learning purpose.
 - [Concise Guide (Outdated)](https://github.com/LinkedDestiny/swoole-doc) - A personal concise guide for Swoole.
