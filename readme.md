@@ -102,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [yii2-swoole](https://github.com/liufee/yii2-swoole) - An integration with yii2 and Swoole.
 - [phwoolcon](https://github.com/phwoolcon/phwoolcon) - An integration with Phalcon and Swoole.
 - [zend-expressive-swoole](https://github.com/zendframework/zend-expressive-swoole) - Swoole support for Expressive applications.
+- [chubbyphp-swoole-request-handler](https://github.com/chubbyphp/chubbyphp-swoole-request-handler) - A request handler adapter for swoole, using PSR-7, PSR-15 and PSR-17.
 
 ## Docker
 - [docker-swoole-webapp](https://github.com/roquie/docker-swoole-webapp) - Simple Docker-image to build your applications based on Swoole PHP extension.
