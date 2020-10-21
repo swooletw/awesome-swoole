@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Swoole IDE Helper](https://github.com/eaglewu/swoole-ide-helper) - Auto completion, trigger suggest and view docs for Swoole in editor.
 - [MyQEE](https://github.com/myqee/server) - A wrapper library for Swoole.
 - [Auto Reload](https://github.com/swoole/auto_reload) - Official hot reload tool using inotify.
+- [Futures](https://github.com/leocavalcante/swoole-futures) - Futures + async/await syntactic-sugar on top of coroutines.
 
 ## Process
 - [Donkey](https://github.com/osgochina/Donkey) - An async crontab application by Swoole.
