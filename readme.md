@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ---
 
 ## Documentation
-- [Swoole Docs](https://www.swoole.co.uk/docs) - Official Swoole documentaion in English.
+- [Swoole Docs](https://www.swoole.co.uk/docs) - Official Swoole documentation in English.
 - [Swoole Examples](https://github.com/swoole/swoole-src/tree/master/examples) - Official examples in Github.
 - [Another Swoole Examples](https://github.com/chenchaojie/Swoole) - Another personal Swoole examples for learning purpose.
 - [Concise Guide (Outdated)](https://github.com/LinkedDestiny/swoole-doc) - A personal concise guide for Swoole.
@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Swoole IDE Helper](https://github.com/eaglewu/swoole-ide-helper) - Auto completion, trigger suggest and view docs for Swoole in editor.
 - [MyQEE](https://github.com/myqee/server) - A wrapper library for Swoole.
 - [Auto Reload](https://github.com/swoole/auto_reload) - Official hot reload tool using inotify.
+- [Futures](https://github.com/leocavalcante/swoole-futures) - Futures + async/await syntactic-sugar on top of coroutines.
 
 ## Process
 - [Donkey](https://github.com/osgochina/Donkey) - An async crontab application by Swoole.
@@ -101,8 +102,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [zys](https://github.com/qieangel2013/zys) - A high performance service framework based on Yaf or Swoole.
 - [yii2-swoole](https://github.com/liufee/yii2-swoole) - An integration with yii2 and Swoole.
 - [phwoolcon](https://github.com/phwoolcon/phwoolcon) - An integration with Phalcon and Swoole.
-- [zend-expressive-swoole](https://github.com/zendframework/zend-expressive-swoole) - Swoole support for Expressive applications.
 - [chubbyphp-swoole-request-handler](https://github.com/chubbyphp/chubbyphp-swoole-request-handler) - A request handler adapter for swoole, using PSR-7, PSR-15 and PSR-17.
+- [mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (previously `zend-expressive-swoole`) - Swoole support for Mezzio (formerly Expressive) applications.
 
 ## Docker
 - [docker-swoole-webapp](https://github.com/roquie/docker-swoole-webapp) - Simple Docker-image to build your applications based on Swoole PHP extension.
