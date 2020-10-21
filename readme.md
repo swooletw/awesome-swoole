@@ -102,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [zys](https://github.com/qieangel2013/zys) - A high performance service framework based on Yaf or Swoole.
 - [yii2-swoole](https://github.com/liufee/yii2-swoole) - An integration with yii2 and Swoole.
 - [phwoolcon](https://github.com/phwoolcon/phwoolcon) - An integration with Phalcon and Swoole.
+- [chubbyphp-swoole-request-handler](https://github.com/chubbyphp/chubbyphp-swoole-request-handler) - A request handler adapter for swoole, using PSR-7, PSR-15 and PSR-17.
 - [mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (previously `zend-expressive-swoole`) - Swoole support for Mezzio (formerly Expressive) applications.
 
 ## Docker
