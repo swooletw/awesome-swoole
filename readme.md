@@ -104,6 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [phwoolcon](https://github.com/phwoolcon/phwoolcon) - An integration with Phalcon and Swoole.
 - [chubbyphp-swoole-request-handler](https://github.com/chubbyphp/chubbyphp-swoole-request-handler) - A request handler adapter for swoole, using PSR-7, PSR-15 and PSR-17.
 - [mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (previously `zend-expressive-swoole`) - Swoole support for Mezzio (formerly Expressive) applications.
+- [psr-swoole-native](https://github.com/imefisto/psr-swoole-native) - Library framework agnostic to convert Swoole Request into Psr7 Request and Psr7 Response to Swoole Response.
 
 ## Docker
 - [docker-swoole-webapp](https://github.com/roquie/docker-swoole-webapp) - Simple Docker-image to build your applications based on Swoole PHP extension.
